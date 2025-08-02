@@ -1,4 +1,4 @@
 pandas
-streamlit
-option_menu
 plotly
+streamlit
+streamlit-option-menu
