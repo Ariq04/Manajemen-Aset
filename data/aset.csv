@@ -1,0 +1,5 @@
+id_aset,nama,status,lokasi,harga_awal,tgl_pembelian,tipe,ukuran_layar,kapasitas_ram,jenis_tinta,kecepatan_cetak_ppm
+ASET-1,Asus Tuf Gaming,Aktif,Kantor Camat Kota Jambi,12000000.0,2025-04-03,Laptop,15,,,
+ASET-2,Server ,Aktif,Kantor Camat Jambi,50000000.0,2016-06-23,Server,,1000,,
+ASET-3,Epson,Perbaikan,Kantor Camat Jambi,3000000.0,2023-08-11,Printer,,,Dot Matrix,23
+ASET-4,Axio Hype 5,Non-Aktif,Kantor Camat Jambi,5500000.0,2018-02-17,Laptop,14,,,
